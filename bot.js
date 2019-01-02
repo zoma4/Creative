@@ -64,6 +64,6 @@ client.on('message', message => { // هاذا للبرودكسات
 client.login(process.env.BOT_TOKEN);
 client.on('ready', () => {//Toxic Codes
     console.log(`Logged in as ${client.user.tag} !`);//Toxic Codes
-          client.user.setActivity("by n3k4a|Premiumbot|Toxic Codes  .",{type: 'WATCHING'});//Toxic Codes
+          client.user.setActivity("by Creative Family  .",{type: 'WATCHING'});//Toxic Codes
   //Toxic Codes
   });//Toxic Codes
